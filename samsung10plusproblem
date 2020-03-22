@@ -1,0 +1,91 @@
+####################
+# Version Info     #
+####################
+
+Code:7
+Name: 1.1
+
+
+####################
+# Device Info      #
+####################
+
+board:              exynos9820
+bootloader:         G975FXXU4BTA8
+cpuAbi:             armeabi-v7a
+cpuAbi2:            armeabi
+device:             beyond2
+display:            QP1A.190711.020.G975FXXU4BTA8
+hardware:           exynos9820
+id:                 QP1A.190711.020
+manufacturer:       samsung
+model:              SM-G975F
+product:            beyond2ltexx
+tags:               release-keys
+types:              user
+user:               dpi
+
+codename:           REL
+incremental:        G975FXXU4BTA8
+release:            10
+sdkInt:             29
+sdk:                29
+
+
+####################
+# App Info         #
+####################
+
+Data Folder Exists:       True
+
+Files:
+ /storage/emulated/0/ScarletStudy/IrisMobile/error.log
+
+
+
+
+####################
+# APK Info         #
+####################
+
+Is Installed:  True
+Is Accessable: True
+Apk Path:      /data/app/jp.co.capcom.daigyakusai-WHavLjiRJ3duJxmu44v7Mg==/base.apk
+
+
+####################
+# OBB Folder Info  #
+####################
+
+Android/obb Exists:       True
+Game OBB Folder Exists:   True
+Backup OBB Folder Exists: False
+
+Folders in Android/obb:
+ /storage/emulated/0/Android/obb/com.android.vending,
+ /storage/emulated/0/Android/obb/com.facebook.katana,
+ /storage/emulated/0/Android/obb/com.mobile.legends,
+ /storage/emulated/0/Android/obb/jp.co.capcom.daigyakusai
+
+Files in Game OBB Folder:
+ /storage/emulated/0/Android/obb/jp.co.capcom.daigyakusai/main.15.jp.co.capcom.daigyakusai.obb,
+ /storage/emulated/0/Android/obb/jp.co.capcom.daigyakusai/patch.11.jp.co.capcom.daigyakusai.obb
+
+Files in Backup OBB Folder:
+ None
+
+
+
+
+####################
+# Error Message    #
+####################
+
+"The Great Ace Attorney" Expansion files (OBBs) not detected. Your "The Great Ace Attorney" installation is corrupted.
+
+
+####################
+# Exception String #
+####################
+
+None
